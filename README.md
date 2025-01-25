@@ -1,3 +1,4 @@
+Работает только на python 3.7 - 3.10
 Для начала в терминале редактора кода "git clone https://github.com/Amir-Suleimanov/Pioneer-study.git"
 
 Затем
